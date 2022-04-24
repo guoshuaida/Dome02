@@ -14,3 +14,5 @@ for(int i=0,i<num.length-1,i++){
 for(int tmp:num){
  System.out.println(tmp)
 }
+yyyyyyyyyyypyp
+wanggang
